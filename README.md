@@ -3,6 +3,7 @@
 Learn how easily you can customize the Syncfusion Vue MultiSelect Dropdown items using templates.  You will learn how to customize the Syncfusion Vue MultiSelect Dropdown items as well as the selected value. You will see how to add a header and footer for the MultiSelect Dropdown pop-up, and how to customize the MultiSelect Dropdown group title.  
  
 Example: https://ej2.syncfusion.com/vue/demos/#/material/multi-select/template.html
+
 Documentation: https://ej2.syncfusion.com/vue/documentation/multi-select/templates
 
 
